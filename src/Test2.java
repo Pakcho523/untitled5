@@ -1,6 +1,6 @@
 
 class Test2 {
-    public static abstract void main(String[] args) {
+    public static  void ehsmain(String[] args) {
         new Test2();
     }
 }
